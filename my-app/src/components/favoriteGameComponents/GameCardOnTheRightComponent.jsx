@@ -1,0 +1,35 @@
+export function GameCardOnTheRight() {
+    return (
+        <div>
+            <img></img>
+            <p></p>
+            <div>
+                <p></p>
+                <p></p>
+            </div>
+            <div>
+                <p></p>
+                <p></p>
+            </div>
+            <div>
+                <p></p>
+                <p></p>
+            </div>
+            <div>
+                <p></p>
+                <p></p>
+            </div>
+            <div>
+                <button></button>
+                <button></button>
+            </div>
+            <div>
+                <img></img>
+                <div>
+                    <p></p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    );
+}
